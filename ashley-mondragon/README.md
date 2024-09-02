@@ -1,6 +1,7 @@
 # Ashley Mondragón
 ## ¿Quién soy yo?
 *Ubicación:* Cúcuta, Norte de Santander
+
 *Perfil:* Ashley Mondragón , 23 años de edad con 4 años de experiencia en contenido multimedia, con capacidades de edición de video y creación de texto. 
 Escogí el rol de Narrative Designer porque me apasiona la idea de crear historias que sumergen al jugador y le dan vida al juego. Me atrae la oportunidad de construir mundos y personajes complejos, y de cómo una buena narrativa puede impactar profundamente la experiencia del usuario. Además, este rol combina la creatividad con la estrategia, permitiendo que cada decisión narrativa influya directamente en la jugabilidad y la inmersión del jugador. Es una forma única de contar historias interactivas, y eso es algo que me entusiasma explorar.
 
